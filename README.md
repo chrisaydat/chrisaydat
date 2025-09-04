@@ -81,7 +81,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 
-> Tip: change `style=flat` to `style=for-the-badge` if you want bigger, bolder badges.
 
 ---
 
