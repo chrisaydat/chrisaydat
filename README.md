@@ -1,40 +1,27 @@
 # Chris Ayeh-Datey — CAD { }
 
-**Software Engineer · QA Automation Engineer · Product Builder**  
-**Building Lumera.**  
-**Build. Test. Prove. Ship.**
+**Software Engineer · QA Automation Engineer · Product Builder**
 
-I build reliable software products and the engineering systems that keep them reliable. My work sits at the intersection of **mobile product engineering, test automation, mobile security, and AI-assisted development**.
+**Building Lumera.**
 
-## Now
-- **Building Lumera** — my primary company-building focus
-- Shipping and improving products including **PrepMate** and **Verge**
-- Researching **secure AI-assisted mobile development** at GIMPA
-- Building deterministic Android & Flutter automation for CI and device-cloud execution
+I build software products and the systems that make them reliable. My work spans mobile engineering, test automation, security, and AI-assisted development.
 
-## Selected work
-- **PrepMate** — an education product for GIMPA students
-- **Verge** — a personal-finance product built in Accra
-- **Android performance tooling** — practical tooling for measuring and diagnosing mobile-app performance
-- **Mobile automation systems** — Appium, TestNG, UIAutomator2, Maestro, Genymotion and CI/CD
+### Currently
 
-## Engineering focus
-- **Automation:** Appium · TestNG · UIAutomator2 · Maestro
-- **Mobile:** Flutter/Dart · Android/Java · Swift/SwiftUI
-- **CI/CD & device cloud:** GitHub Actions · Azure DevOps · Genymotion
-- **Quality architecture:** deterministic waits · stable selectors · POM · test reporting · device matrices
-- **Security:** mobile application security · secure development · digital forensics research
+- Building **Lumera** and products including **Verge** and **PrepMate**.
+- Engineering reliable mobile automation and CI/CD systems.
+- Exploring mobile security, performance, and applied AI.
 
-## How I work
-- Turn flaky UI suites into reliable engineering signal
-- Prefer stable interfaces and deterministic tests over fragile shortcuts
-- Treat quality, security and observability as product concerns—not release-day checks
-- Build small, useful systems, measure them, and improve them from evidence
+### What I work with
 
-## Principles
+**Flutter · Dart · Java · Python · Swift · Appium · Maestro · GitHub Actions · Genymotion**
 
-**Signal over noise · Small surface area · Repeatable proofs · Reliable systems · If it isn’t deterministic, it isn’t done.**
+### Philosophy
 
-## Elsewhere
+*Build. Test. Prove. Ship.*
+
+**Signal over noise. Repeatable proofs. Reliable systems.**
+
+---
 
 [Website](https://chrisaydat.com) · [LinkedIn](https://www.linkedin.com/in/chrisaydat/) · [X](https://x.com/chrisaydat)
